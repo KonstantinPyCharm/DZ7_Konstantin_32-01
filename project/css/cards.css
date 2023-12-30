@@ -1,0 +1,15 @@
+.cards {
+    min-height: 100vh;
+    padding-top: 100px;
+    background-color: black;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.card p {
+    color: white;
+}
